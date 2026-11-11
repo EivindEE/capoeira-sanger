@@ -1,1 +1,11 @@
-site_name: My Docs
+site_name: Capoeirasanger
+
+nav:
+  - Sanger:
+    - index.md
+    - Sao Bento Grande: 
+        - Rytmen: sao_bento_grande/index.md
+        - Ai ai ai ai, São Bento me chama: sao_bento_grande/ai_ai_ai_ai_sao_bento_me_chama.md
+        - A hora e essa: sao_bento_grande/a_hora_e_essa.md
+    
+theme: readthedocs
