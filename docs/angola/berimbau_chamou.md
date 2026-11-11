@@ -1,4 +1,4 @@
-Berimbau chamou
+# Berimbau chamou
 Berimbau chamou  
 Chamou pra roda  
 Tocou  
@@ -48,7 +48,7 @@ Aprendeu a levantar
 _Coro_  
   
   
-Oversettelse:  
+## Oversettelse:  
 Berimbau har kalt  
 Har kalt oss til rodaen  
 Berimbauen spilte  
