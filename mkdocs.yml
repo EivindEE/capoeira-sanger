@@ -3,8 +3,16 @@ site_name: Capoeirasanger
 nav:
   - Sanger:
     - index.md
-    - Sao Bento Grande: 
-        - Rytmen: sao_bento_grande/index.md
+    - Angola:
+        - angola/index.md
+        - Ai Ai Aidê: angola/ai_ai_aide.md
+        - Angola e, o lêlê: angola/angola_e_o_lele.md
+        - A Lição: angola/a_licao.md
+        - Ave Maria meu Deus: angola/ave_maria_meu_deus.md
+        - Avisa meu mano: angola/avisa_meu_mano.md
+        - Beira mar, auê Beira mar: angola/beira_mar_aue_beira_mar.md
+    - Sao Bento Grande:
+        - sao_bento_grande/index.md
         - Ai ai ai ai, São Bento me chama: sao_bento_grande/ai_ai_ai_ai_sao_bento_me_chama.md
         - A hora e essa: sao_bento_grande/a_hora_e_essa.md
     

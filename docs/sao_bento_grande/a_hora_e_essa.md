@@ -29,3 +29,6 @@ _Coro:_
 
 _Berimbau ble spillt, i capoeira_
 _Berimbau ble spillt, jeg skal spille_
+
+
+[Carolina Soares](https://open.spotify.com/track/1EIWddhCtay8sMJeu58lvm?si=c41c63eb2391471a)
